@@ -1,0 +1,14 @@
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\bin\Debug\PMetodos.exe.config
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\bin\Debug\PMetodos.exe
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\bin\Debug\PMetodos.pdb
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.csprojAssemblyReference.cache
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.Form1.resources
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.Properties.Resources.resources
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.GenerateResource.cache
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.CoreCompileInputs.cache
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.exe
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.pdb
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio2.resources
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio3.resources
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio4.resources
+C:\Users\0030482221039\Desktop\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio5.resources
